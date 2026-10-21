@@ -14,7 +14,7 @@
 
 I'm a Java Developer student at **EC Utbildning**, passionate about software development and building practical applications.
 
-Currently focusing on Java, Spring Boot, REST APIs, and mobile development with React Native.
+Currently developing my skills in Java, Spring Boot, JavaScript, React, React Native, REST APIs, SQL, PostgreSQL, and HTML & CSS. Experienced with Git, agile development, and building web and mobile applications.
 
 
 ---
