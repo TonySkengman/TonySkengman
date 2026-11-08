@@ -2,7 +2,7 @@
 
 # Tony Le
 
-### Java Developer Student · Junior Developer
+### Software Development Student · Full-Stack Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=450&lines=Building+applications;Learning+new+technologies;Turning+Ideas+Into+Code;)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 ## About Me
 
-I'm a Java Developer student at **EC Utbildning**, passionate about software development and building practical applications.
+I'm a Software Development student at EC Utbildning, with a strong interest in building practical and creative applications.
 
-Currently focused on developing my programming skills and growing as a developer.
+I enjoy turning ideas into functional applications, whether it's a useful everyday tool, a web application, or a browser game. I like experimenting with new technologies, solving problems, and continuously improving my projects as I learn.
 
 
 ---
@@ -34,6 +34,7 @@ Currently focused on developing my programming skills and growing as a developer
 <td align="center"><strong>Frontend</strong></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
