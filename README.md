@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Software Development student at EC Utbildning, with a strong interest in building practical and creative applications.
+I'm a Software Development student at **EC Utbildning**, with a strong interest in building practical and creative applications.
 
 I enjoy turning ideas into functional applications, whether it's a useful everyday tool, a web application, or a browser game. I like experimenting with new technologies, solving problems, and continuously improving my projects as I learn.
 
